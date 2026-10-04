@@ -16,6 +16,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Programming Languages](#programming-languages)
   - [Rust](#rust)
   - [Go](#go)
+  - [Zig](#zig)
   - [Python](#python)
   - [Java](#java)
   - [JavaScript & TypeScript](#javascript--typescript)
@@ -164,6 +165,12 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [Gist of Go: Concurrency](https://antonz.org/go-concurrency/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+
+### Zig
+
+- [Introduction to Zig- a project-based book](https://pedropark99.github.io/zig-book/)
+- [Zigling](https://codeberg.org/ziglings/exercises/#ziglings)
+- [Zen of Zig](https://zenofzig.com/)
 
 ### Python
 
