@@ -75,6 +75,8 @@ A curated collection of computer science books, interactive courses, technical a
 - [TrenTorch Documentation](https://trentorch.vercel.app/docs)
 - [GPU Glossary (Modal)](https://modal.com/gpu-glossary)
 - [GPU performance engineering+Inference by Wafer](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+- [Structure and Interpretation
+of Tensor Programs](https://sitp.ai/front.html)
 - [RustではじめるCPUとGPU (Getting Started with CPU & GPU in Rust)](https://rust-cpu-gpu-book.void.app/)
 
 ---
