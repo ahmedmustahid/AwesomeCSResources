@@ -32,15 +32,12 @@ A curated collection of computer science books, interactive courses, technical a
 ## Artificial Intelligence, Machine Learning & Deep Learning
 
 - [A First Course in Monte Carlo Methods](https://arxiv.org/html/2405.16359v1)
-- [Deep-ML | Practice Machine Learning](https://www.deep-ml.com/)
 - [Learning Paths | Deep-ML](https://www.deep-ml.com/paths)
 - [Machine Learning in Production: From Models to Products (CMU)](https://mlip-cmu.github.io/book/)
 - [Applied Machine Learning in Python](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)
 - [Principles and Practice of Deep Representation Learning](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
 - [An Informal Introduction to Intelligence (Ch1 - Deep Representation Learning)](https://ma-lab-berkeley.github.io/deep-representation-learning-book/Ch1.html)
 - [Hands-on Modern RL (Course Overview)](https://walkinglabs.github.io/hands-on-modern-rl/en/preface/intro)
-- [Hands-on Modern RL (Course Introduction)](https://walkinglabs.github.io/hands-on-modern-rl/en/preface/introduction)
-- [Hands-on Modern RL (GitHub Repository)](https://github.com/walkinglabs/hands-on-modern-rl)
 - [AI Agents in Depth](https://bojieli.github.io/ai-agent-book/book-en/introduction/)
 - [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
 - [LLM Architecture Diagrams](https://zardini.mit.edu/diagrams/)
@@ -48,6 +45,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [The Nature of Code](https://natureofcode.com/introduction/)
 - [Computer Vision: Algorithms and Applications (2nd Edition)](https://szeliski.org/Book/)
 - [ML Engineering - Network Architecture Guide](https://github.com/stas00/ml-engineering/blob/master/network/README.md)
+- [RLHF book - Nathan Lambert](https://rlhfbook.com/)
 
 ---
 
@@ -55,9 +53,9 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [How To Scale Your Model (Scaling Book - JAX)](https://jax-ml.github.io/scaling-book/)
 - [Modern GPU Programming For MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
-- [Modern GPU Programming For MLSys (Overview)](https://mlc.ai/modern-gpu-programming-for-mlsys/#)
-- [GPU Execution Model — Modern GPU Programming For MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/chapter_background/index.html#)
+- [LeetGPU-GPU Study Resources](https://leetgpu.com/resources)
 - [MLC - A Community of Machine Learning Compilers](https://mlc.ai/index.html)
+- [Machine Learning System Compiler etc OpenMLSys](https://openmlsys.github.io/v1/cn/)
 - [100 Days of CUDA](https://pavelsimo.github.io/100-days-of-cuda/)
 - [Learn Kernels: Kernel and Inference Performance Traced to Primary Sources](https://learn-kernels.com/)
 - [Learn Inference: Inference Engineering Explained Interactively](https://learn-inference.com/)
@@ -75,6 +73,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Fast Engine Recovery: Sub-Second Engine Restart for SGLang via Weight Cache Daemon (LMSYS)](https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery#tldr)
 - [TrenTorch Documentation](https://trentorch.vercel.app/docs)
 - [GPU Glossary (Modal)](https://modal.com/gpu-glossary)
+- [GPU performance engineering+Inference by Wafer](https://github.com/wafer-ai/gpu-perf-engineering-resources)
 - [RustではじめるCPUとGPU (Getting Started with CPU & GPU in Rust)](https://rust-cpu-gpu-book.void.app/)
 
 ---
@@ -104,15 +103,16 @@ A curated collection of computer science books, interactive courses, technical a
 - [Writing an OS in Rust (Philipp Oppermann)](https://os.phil-opp.com/)
 - [rCore-Tutorial-Book-v3 (OS in Rust for RISC-V)](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/)
-- [Linux From Scratch (Official Site)](https://www.linuxfromscratch.org/)
 - [Linux From Scratch Project Homepage](https://www.linuxfromscratch.org/lfs/)
-- [Linux From Scratch (Stable Systemd Edition)](https://www.linuxfromscratch.org/lfs/downloads/stable-systemd/LFS-BOOK-13.1-NOCHUNKS.html#pre-foreword)
 
 ---
 
 ## Computer Architecture & Hardware
 
 - [Computing Systems Organization (Carl Burch)](https://www.cburch.com/cso/)
+- [Systems Inside-Assembly](https://0xax.dev/books/asm/)
+- [Dive into Systems](https://diveintosystems.org/book/index.html)
+- [Computer Architecture](https://srsarangi.github.io/)
 - [How to Self-Study Integrated Circuit Design (Hacker News Discussion)](https://news.ycombinator.com/item?id=19890949)
 
 ---
@@ -127,6 +127,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 ## Algorithms & Data Structures
 
+- [Algorithmica Russian](https://ru.algorithmica.org/)
 - [Algorithms (Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh V. Vazirani)](https://github.com/eherbold/berkeleytextbooks/blob/master/Algorithms%20-%20Sanjoy%20Dasgupta%2C%20Christos%20H.%20Papadimitriou%2C%20and%20Umesh%20V.%20Vazirani.pdf)
 - [Problem Solving with Algorithms and Data Structures using Python (3rd Edition)](https://runestone.academy/ns/books/published/pythonds3/index.html)
 - [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp/)
@@ -152,10 +153,12 @@ A curated collection of computer science books, interactive courses, technical a
 - [Learn Rust (Official Guide)](https://rust-lang.org/learn/)
 - [Rust 101 Guide](https://rust-lang.guide/guide/learn-rust/index.html)
 - [The Rust Programming Language (Interactive Brown University Edition)](https://rust-book.cs.brown.edu/)
-- [References and Borrowing (Rust Book - Brown University)](https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html#references-change-permissions-on-places)
 - [Rust By Practice](https://practice-rust.beatai.org/)
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/)
 - [Rust Web Development with Leptos](https://book.leptos.dev/01_introduction.html)
+- [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=Japan&discount_code=VAT20&country_code=JP)
+- [Rust for Network Programming and Automation](https://leanpub.com/rustfornetworkprogrammingandautomation2edition)
+- [RUST Firmware Engineering](https://www.amazon.co.jp/RUST-Firmware-Engineering-Microcontrollers-Applications/dp/B0H4WTZGTX)
 
 ### Go
 
@@ -187,9 +190,13 @@ A curated collection of computer science books, interactive courses, technical a
 
 ## Compilers & Interpreters
 
-- [Crafting Interpreters (Table of Contents)](https://craftinginterpreters.com/contents.html)
-- [Crafting Interpreters (Introduction)](https://craftinginterpreters.com/introduction.html)
-
+- [Crafting Interpreters (Java, C)](https://craftinginterpreters.com/contents.html)
+- [Creating Language using Racker](https://beautifulracket.com/)
+- [Introduction to Compilers and Language Design-Prof. Douglas Thain
+](https://dthain.github.io/books/compiler/)
+- [Build Your Own Lisp in C](https://www.buildyourownlisp.com/)
+- [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+- [Compilers for ML- Coming Soon](https://gist.github.com/geohot/4768597d9dc536446ee2d5de1f29e89d#file-syllabus-md)
 ---
 
 ## Software Engineering, Architecture & Backend
@@ -209,7 +216,9 @@ A curated collection of computer science books, interactive courses, technical a
 
 ## Databases & Data Engineering
 
+- [Guide to Database performance for developers](https://use-the-index-luke.com/)
 - [PostgreSQL Tutorial (Neon)](https://neon.com/postgresql/tutorial)
+- [Enhance your Postgres skills](https://www.crunchydata.com/developers/tutorials)
 - [Forward Deployed Engineering (FDE Engineering)](https://vangong1999.github.io/FDE/#/)
 
 ---
