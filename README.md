@@ -32,52 +32,67 @@ A curated collection of computer science books, interactive courses, technical a
 
 ## Artificial Intelligence, Machine Learning & Deep Learning
 
-- [A First Course in Monte Carlo Methods](https://arxiv.org/html/2405.16359v1)
+### Foundational Courses & Learning Paths
 - [Learning Paths | Deep-ML](https://www.deep-ml.com/paths)
-- [Machine Learning in Production: From Models to Products (CMU)](https://mlip-cmu.github.io/book/)
-- [Applied Machine Learning in Python](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)
+- [Hands-on Modern RL (Course Overview)](https://walkinglabs.github.io/hands-on-modern-rl/en/preface/intro)
+- [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
+
+### Core Concepts & Theory
+- [A First Course in Monte Carlo Methods](https://arxiv.org/html/2405.16359v1)
 - [Principles and Practice of Deep Representation Learning](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
 - [An Informal Introduction to Intelligence (Ch1 - Deep Representation Learning)](https://ma-lab-berkeley.github.io/deep-representation-learning-book/Ch1.html)
-- [Hands-on Modern RL (Course Overview)](https://walkinglabs.github.io/hands-on-modern-rl/en/preface/intro)
+- [The Nature of Code](https://natureofcode.com/introduction/)
+
+### Specialized Domains
+- [Computer Vision: Algorithms and Applications (2nd Edition)](https://szeliski.org/Book/)
+- [RLHF book - Nathan Lambert](https://rlhfbook.com/)
 - [AI Agents in Depth](https://bojieli.github.io/ai-agent-book/book-en/introduction/)
-- [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
+
+### Production & Systems
+- [Machine Learning in Production: From Models to Products (CMU)](https://mlip-cmu.github.io/book/)
+- [Applied Machine Learning in Python](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)
 - [LLM Architecture Diagrams](https://zardini.mit.edu/diagrams/)
 - [From Watts to Tokens — Inside an AI Data Center](https://kiankyars.github.io/gigawatt/)
-- [The Nature of Code](https://natureofcode.com/introduction/)
-- [Computer Vision: Algorithms and Applications (2nd Edition)](https://szeliski.org/Book/)
 - [ML Engineering - Network Architecture Guide](https://github.com/stas00/ml-engineering/blob/master/network/README.md)
-- [RLHF book - Nathan Lambert](https://rlhfbook.com/)
 
 ---
 
 ## ML Systems, Inference & GPU Programming
 
-- [How To Scale Your Model (Scaling Book - JAX)](https://jax-ml.github.io/scaling-book/)
+### GPU Programming & CUDA
 - [Modern GPU Programming For MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
-- [LeetGPU-GPU Study Resources](https://leetgpu.com/resources)
+- [100 Days of CUDA](https://pavelsimo.github.io/100-days-of-cuda/)
+- [GPU Glossary (Modal)](https://modal.com/gpu-glossary)
+- [GPU performance engineering+Inference by Wafer](https://github.com/wafer-ai/gpu-perf-engineering-resources)
+- [RustではじめるCPUとGPU (Getting Started with CPU & GPU in Rust)](https://rust-cpu-gpu-book.void.app/)
+
+### ML Compilers & Tensor Programs
 - [MLC - A Community of Machine Learning Compilers](https://mlc.ai/index.html)
 - [Machine Learning System Compiler etc OpenMLSys](https://openmlsys.github.io/v1/cn/)
-- [100 Days of CUDA](https://pavelsimo.github.io/100-days-of-cuda/)
-- [Learn Kernels: Kernel and Inference Performance Traced to Primary Sources](https://learn-kernels.com/)
+- [Structure and Interpretation of Tensor Programs](https://sitp.ai/front.html)
+
+### Inference Engineering
 - [Learn Inference: Inference Engineering Explained Interactively](https://learn-inference.com/)
 - [Inference Engineering Master Map](https://inference-engineering-master-map.vercel.app/)
 - [LLM Inference Handbook (Modular)](https://handbook.modular.com/)
 - [Introduction - How to Write an Inference Engine (Muser Book)](https://highperformanceailab.com/muser-book/)
+- [SGLang Blog – Releases, Benchmarks & Announcements](https://www.sglang.io/blog/kimi-k3-day0-support)
+- [Fast Engine Recovery: Sub-Second Engine Restart for SGLang via Weight Cache Daemon (LMSYS)](https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery#tldr)
+
+### Performance & Optimization
+- [Learn Kernels: Kernel and Inference Performance Traced to Primary Sources](https://learn-kernels.com/)
+- [Making Softmax Fast (Anshuman Mishra)](https://heyyanshuman.com/posts/making_softmax_fast)
+- [All About Rooflines · TPU × HBM](https://ezyang.github.io/interactive-parallelize-transformer/roofline.html)
+- [Training Larger Models on a Single GPU (UvA DL Notebooks)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/scaling/JAX/single_gpu_techniques.html)
+
+### Systems & Scaling
+- [How To Scale Your Model (Scaling Book - JAX)](https://jax-ml.github.io/scaling-book/)
+- [LeetGPU-GPU Study Resources](https://leetgpu.com/resources)
 - [Machine Learning Systems at Scale (Vol 2)](https://mlsysbook.ai/vol2/)
 - [Machine Learning Systems: Design and Implementation (2nd Edition)](https://openmlsys.github.io/)
 - [StaffML — ML Systems Interview Prep](https://mlsysbook.ai/staffml/)
 - [CMU Deep Learning Systems — Lecture 7: Neural Network Library Abstractions](https://ickma2311.github.io/ML/DLSys/cmu-dlsys-lecture-7-neural-network-library-abstractions.html)
-- [All About Rooflines · TPU × HBM](https://ezyang.github.io/interactive-parallelize-transformer/roofline.html)
-- [Training Larger Models on a Single GPU (UvA DL Notebooks)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/scaling/JAX/single_gpu_techniques.html)
-- [Making Softmax Fast (Anshuman Mishra)](https://heyyanshuman.com/posts/making_softmax_fast)
-- [SGLang Blog – Releases, Benchmarks & Announcements](https://www.sglang.io/blog/kimi-k3-day0-support)
-- [Fast Engine Recovery: Sub-Second Engine Restart for SGLang via Weight Cache Daemon (LMSYS)](https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery#tldr)
 - [TrenTorch Documentation](https://trentorch.vercel.app/docs)
-- [GPU Glossary (Modal)](https://modal.com/gpu-glossary)
-- [GPU performance engineering+Inference by Wafer](https://github.com/wafer-ai/gpu-perf-engineering-resources)
-- [Structure and Interpretation
-of Tensor Programs](https://sitp.ai/front.html)
-- [RustではじめるCPUとGPU (Getting Started with CPU & GPU in Rust)](https://rust-cpu-gpu-book.void.app/)
 
 ---
 
@@ -130,13 +145,18 @@ of Tensor Programs](https://sitp.ai/front.html)
 
 ## Algorithms & Data Structures
 
-- [Algorithmica Russian](https://ru.algorithmica.org/)
+### Foundational Textbooks
 - [Algorithms (Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh V. Vazirani)](https://github.com/eherbold/berkeleytextbooks/blob/master/Algorithms%20-%20Sanjoy%20Dasgupta%2C%20Christos%20H.%20Papadimitriou%2C%20and%20Umesh%20V.%20Vazirani.pdf)
-- [Problem Solving with Algorithms and Data Structures using Python (3rd Edition)](https://runestone.academy/ns/books/published/pythonds3/index.html)
 - [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp/)
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/)
+
+### Learning & Practice
+- [Problem Solving with Algorithms and Data Structures using Python (3rd Edition)](https://runestone.academy/ns/books/published/pythonds3/index.html)
+- [Algorithmica Russian](https://ru.algorithmica.org/)
+
+### Interview Preparation
 - [LeetCode Cookbook (Halfrost)](https://books.halfrost.com/leetcode/en/)
 - [labuladong's Algorithm CheatSheet (Crack LeetCode)](https://github.com/labuladong/fucking-algorithm)
-- [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 
 ---
 
@@ -213,27 +233,38 @@ of Tensor Programs](https://sitp.ai/front.html)
 
 ## Software Engineering, Architecture & Backend
 
-- [Engineering Software as a Service (ESaaS)](https://saasbook.info/)
-- [UCB CS169: Software Engineering (CSDIY)](https://csdiy.wiki/en/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/CS169/)
-- [Backend from First Principles — Complete Series](https://backend-from-first-principle.vercel.app/)
-- [Making Software](https://www.makingsoftware.com/)
+### Foundational Concepts & Design
 - [The Computer Science Book (2nd Edition - Practical CS for Self-Taught Developers)](https://thecomputersciencebook.com/)
 - [Hacker Laws (Web Version)](https://hacker-laws.com/)
 - [Hacker Laws (GitHub Repository)](https://github.com/dwmkerr/hacker-laws#kernighans-law)
 - [Software Internals Book Club (Phil Eaton)](https://eatonphil.com/bookclub.html)
-- [Awesome FastAPI (Dependency Injection & Resources)](https://github.com/mjhea0/awesome-fastapi#dependency-injection)
-- [What Async Promised and What it Delivered (Causality)](https://causality.blog/essays/what-async-promised/)
-- [The software design, architecture & testing wiki](https://wiki.solidbook.io/)
-- [Master Software Architecture - A Pragmatic Guide](https://leanpub.com/master-software-architecture)
+- [Making Software](https://www.makingsoftware.com/)
+
+### Architecture & System Design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Master Software Architecture - A Pragmatic Guide](https://leanpub.com/master-software-architecture)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/)
+- [Backend from First Principles — Complete Series](https://backend-from-first-principle.vercel.app/)
+
+### Domain-Driven Design
 - [Free Domain-Driven Design Learning Resources](https://github.com/ddd-crew/free-ddd-learning-resources)
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
 - [DD for the Web, with Python, Selenium, Django, JavaScript and pals...](https://www.obeythetestinggoat.com/pages/book.html)
+
+### Testing & Quality Practices
+- [The software design, architecture & testing wiki](https://wiki.solidbook.io/)
 - [Test-Driven Development: Extensive Tutorial](https://leanpub.com/read/tdd-ebook)
-- [The Architecture of Open Source Applications](https://aosabook.org/en/)
+
+### Design Patterns & Practical Guides
 - [Software Design by Example A tool-based introduction with Python](https://third-bit.com/sdxpy/)
 - [Software Design by Example A tool-based introduction with JavaScript](https://third-bit.com/sdxjs/)
 - [Architecture Patterns with Python (Cosmic Python)](https://www.cosmicpython.com/)
+
+### SaaS & Development Practices
+- [Engineering Software as a Service (ESaaS)](https://saasbook.info/)
+- [UCB CS169: Software Engineering (CSDIY)](https://csdiy.wiki/en/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/CS169/)
+- [Awesome FastAPI (Dependency Injection & Resources)](https://github.com/mjhea0/awesome-fastapi#dependency-injection)
+- [What Async Promised and What it Delivered (Causality)](https://causality.blog/essays/what-async-promised/)
 
 ---
 
@@ -266,5 +297,15 @@ of Tensor Programs](https://sitp.ai/front.html)
 - [Textbooks for Tertiary Institutions (Open Textbooks for Hong Kong)](https://www.opentextbooks.org.hk/tertiary-institutions)
 - [Wondering Explore Portal](https://wondering.app/explore)
 - [Wondering Explore — Self-Improvement Category](https://wondering.app/explore/category/self-improvement)
+
+
+---
+
+## Interview Preparation
+
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+- [the EmbeddedNew Testament](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io)
+- [Company wise interview questions](https://github.com/harry-the-nerd/interview-notes-questions)
+- [AI Engineering Interviews company wise](https://github.com/ombharatiya/AI-Engineer-Interview-Questions)
 
 
