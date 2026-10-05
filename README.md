@@ -233,6 +233,7 @@ of Tensor Programs](https://sitp.ai/front.html)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 - [Software Design by Example A tool-based introduction with Python](https://third-bit.com/sdxpy/)
 - [Software Design by Example A tool-based introduction with JavaScript](https://third-bit.com/sdxjs/)
+- [Architecture Patterns with Python (Cosmic Python)](https://www.cosmicpython.com/)
 
 ---
 
