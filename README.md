@@ -136,6 +136,7 @@ of Tensor Programs](https://sitp.ai/front.html)
 - [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp/)
 - [LeetCode Cookbook (Halfrost)](https://books.halfrost.com/leetcode/en/)
 - [labuladong's Algorithm CheatSheet (Crack LeetCode)](https://github.com/labuladong/fucking-algorithm)
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 
 ---
 
@@ -177,6 +178,7 @@ of Tensor Programs](https://sitp.ai/front.html)
 ### Python
 
 - [Architecture Patterns with Python (Cosmic Python)](https://www.cosmicpython.com/)
+- [Software Design by Example A tool-based introduction with Python](https://third-bit.com/sdxpy/)
 
 ### Java
 
@@ -189,6 +191,7 @@ of Tensor Programs](https://sitp.ai/front.html)
 - [Exploring JavaScript (ES2025 Edition)](https://exploringjs.com/js/book/index.html)
 - [TypeScript for the New Programmer (TypeScript Handbook)](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 - [The JavaScript Way](https://thejsway.net/)
+- [Software Design by Example A tool-based introduction with JavaScript](https://third-bit.com/sdxjs/)
 
 ### C & Systems Programming
 
@@ -220,6 +223,16 @@ of Tensor Programs](https://sitp.ai/front.html)
 - [Software Internals Book Club (Phil Eaton)](https://eatonphil.com/bookclub.html)
 - [Awesome FastAPI (Dependency Injection & Resources)](https://github.com/mjhea0/awesome-fastapi#dependency-injection)
 - [What Async Promised and What it Delivered (Causality)](https://causality.blog/essays/what-async-promised/)
+- [The software design, architecture & testing wiki](https://wiki.solidbook.io/)
+- [Master Software Architecture - A Pragmatic Guide](https://leanpub.com/master-software-architecture)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Free Domain-Driven Design Learning Resources](https://github.com/ddd-crew/free-ddd-learning-resources)
+- [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
+- [DD for the Web, with Python, Selenium, Django, JavaScript and pals...](https://www.obeythetestinggoat.com/pages/book.html)
+- [Test-Driven Development: Extensive Tutorial](https://leanpub.com/read/tdd-ebook)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/)
+- [Software Design by Example A tool-based introduction with Python](https://third-bit.com/sdxpy/)
+- [Software Design by Example A tool-based introduction with JavaScript](https://third-bit.com/sdxjs/)
 
 ---
 
