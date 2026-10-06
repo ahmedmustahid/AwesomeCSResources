@@ -149,6 +149,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Algorithms (Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh V. Vazirani)](https://github.com/eherbold/berkeleytextbooks/blob/master/Algorithms%20-%20Sanjoy%20Dasgupta%2C%20Christos%20H.%20Papadimitriou%2C%20and%20Umesh%20V.%20Vazirani.pdf)
 - [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp/)
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/)
+- [Algorithmic Thinking Daniel Zingaro](https://amzn.asia/d/058vFSN7)
 
 ### Learning & Practice
 - [Problem Solving with Algorithms and Data Structures using Python (3rd Edition)](https://runestone.academy/ns/books/published/pythonds3/index.html)
