@@ -84,6 +84,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Making Softmax Fast (Anshuman Mishra)](https://heyyanshuman.com/posts/making_softmax_fast)
 - [All About Rooflines · TPU × HBM](https://ezyang.github.io/interactive-parallelize-transformer/roofline.html)
 - [Training Larger Models on a Single GPU (UvA DL Notebooks)](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/scaling/JAX/single_gpu_techniques.html)
+- [実践的パフォーマンスエンジニアリングによるAI高速化](https://gihyo.jp/book/2026/978-4-297-15349-6)
 
 ### Systems & Scaling
 - [How To Scale Your Model (Scaling Book - JAX)](https://jax-ml.github.io/scaling-book/)
