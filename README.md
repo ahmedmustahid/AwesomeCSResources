@@ -207,6 +207,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Dev.java (The Destination for Java Developers)](https://dev.java/)
 - [Modern Java](https://javabook.mccue.dev/)
 - [Java Practices](http://www.javapractices.com/home/HomeAction.do)
+- [Javaguide](https://github.com/Snailclimb/JavaGuide/blob/main/README_EN.md)
 
 ### JavaScript & TypeScript
 
