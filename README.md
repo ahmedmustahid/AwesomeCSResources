@@ -20,6 +20,7 @@ A curated collection of computer science books, interactive courses, technical a
   - [Python](#python)
   - [Java](#java)
   - [JavaScript & TypeScript](#javascript--typescript)
+  - [OCaml](#ocaml)
   - [C & Systems Programming](#c--systems-programming)
 - [Compilers & Interpreters](#compilers--interpreters)
 - [Software Engineering, Architecture & Backend](#software-engineering-architecture--backend)
@@ -185,6 +186,8 @@ A curated collection of computer science books, interactive courses, technical a
 - [Zero To Production In Rust](https://www.zero2prod.com/index.html?country=Japan&discount_code=VAT20&country_code=JP)
 - [Rust for Network Programming and Automation](https://leanpub.com/rustfornetworkprogrammingandautomation2edition)
 - [RUST Firmware Engineering](https://www.amazon.co.jp/RUST-Firmware-Engineering-Microcontrollers-Applications/dp/B0H4WTZGTX)
+- [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
+
 
 ### Go
 
@@ -220,6 +223,11 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [C Programming Deep Dive — Language Foundations (LowLevelCraft)](https://www.lowlevelcraft.com/tracks/language-foundations/c-programming)
 - [Stanford CS107: Programming Paradigms Notes (Jerry Cain)](https://github.com/GabrielBarberini/EECS/blob/master/notes/personal/Programming_paradigms_CS107.pdf)
+
+### OCaml
+
+- [OCaml Programming: Correct + Efficient + Beautiful from Cornell](https://cs3110.github.io/textbook/cover.html)
+- [The Art of Functional Programming](https://pragprog.com/titles/d-qtmart/the-art-of-functional-programming/)
 
 ---
 
