@@ -95,6 +95,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Machine Learning Systems: Design and Implementation (2nd Edition)](https://openmlsys.github.io/)
 - [StaffML — ML Systems Interview Prep](https://mlsysbook.ai/staffml/)
 - [CMU Deep Learning Systems — Lecture 7: Neural Network Library Abstractions](https://ickma2311.github.io/ML/DLSys/cmu-dlsys-lecture-7-neural-network-library-abstractions.html)
+- [AI System AI Infra Chinese Docs](https://infrasys-ai.github.io/aisystem-docs/)
 - [TrenTorch Documentation](https://trentorch.vercel.app/docs)
 
 ---
