@@ -37,6 +37,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Learning Paths | Deep-ML](https://www.deep-ml.com/paths)
 - [Hands-on Modern RL (Course Overview)](https://walkinglabs.github.io/hands-on-modern-rl/en/preface/intro)
 - [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
+- [Agentic Large Language Models](https://arxiv.org/pdf/2610.13455)
 
 ### Core Concepts & Theory
 - [A First Course in Monte Carlo Methods](https://arxiv.org/html/2405.16359v1)
