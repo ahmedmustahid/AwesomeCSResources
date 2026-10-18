@@ -287,6 +287,9 @@ A curated collection of computer science books, interactive courses, technical a
 - [PostgreSQL Tutorial (Neon)](https://neon.com/postgresql/tutorial)
 - [Enhance your Postgres skills](https://www.crunchydata.com/developers/tutorials)
 - [Forward Deployed Engineering (FDE Engineering)](https://vangong1999.github.io/FDE/#/)
+- [How Query Engines Work](https://howqueryengineswork.com/00-acknowledgments.html)
+- [Mini-LSM — Build a Database Storage Engine in Rust](https://skyzh.github.io/mini-lsm/00-preface)
+- [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/00a_overview)
 
 ---
 
