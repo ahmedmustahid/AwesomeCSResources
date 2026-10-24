@@ -28,29 +28,34 @@ A curated collection of computer science books, interactive courses, technical a
 - [DevOps & Cloud Infrastructure](#devops--cloud-infrastructure)
 - [Security & Systems Security](#security--systems-security)
 - [General Computer Science & Curated Portals](#general-computer-science--curated-portals)
+- [Misc. Tools](<>)
 
 ---
 
 ## Artificial Intelligence, Machine Learning & Deep Learning
 
 ### Foundational Courses & Learning Paths
+
 - [Learning Paths | Deep-ML](https://www.deep-ml.com/paths)
 - [Hands-on Modern RL (Course Overview)](https://walkinglabs.github.io/hands-on-modern-rl/en/preface/intro)
 - [AI Engineering from Scratch](https://aiengineeringfromscratch.com/index.html)
 - [Agentic Large Language Models](https://arxiv.org/pdf/2610.13455)
 
 ### Core Concepts & Theory
+
 - [A First Course in Monte Carlo Methods](https://arxiv.org/html/2405.16359v1)
 - [Principles and Practice of Deep Representation Learning](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
 - [An Informal Introduction to Intelligence (Ch1 - Deep Representation Learning)](https://ma-lab-berkeley.github.io/deep-representation-learning-book/Ch1.html)
 - [The Nature of Code](https://natureofcode.com/introduction/)
 
 ### Specialized Domains
+
 - [Computer Vision: Algorithms and Applications (2nd Edition)](https://szeliski.org/Book/)
 - [RLHF book - Nathan Lambert](https://rlhfbook.com/)
 - [AI Agents in Depth](https://bojieli.github.io/ai-agent-book/book-en/introduction/)
 
 ### Production & Systems
+
 - [Machine Learning in Production: From Models to Products (CMU)](https://mlip-cmu.github.io/book/)
 - [Applied Machine Learning in Python](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html)
 - [LLM Architecture Diagrams](https://zardini.mit.edu/diagrams/)
@@ -62,6 +67,7 @@ A curated collection of computer science books, interactive courses, technical a
 ## ML Systems, Inference & GPU Programming
 
 ### GPU Programming & CUDA
+
 - [Modern GPU Programming For MLSys](https://mlc.ai/modern-gpu-programming-for-mlsys/)
 - [100 Days of CUDA](https://pavelsimo.github.io/100-days-of-cuda/)
 - [GPU Glossary (Modal)](https://modal.com/gpu-glossary)
@@ -69,11 +75,13 @@ A curated collection of computer science books, interactive courses, technical a
 - [RustではじめるCPUとGPU (Getting Started with CPU & GPU in Rust)](https://rust-cpu-gpu-book.void.app/)
 
 ### ML Compilers & Tensor Programs
+
 - [MLC - A Community of Machine Learning Compilers](https://mlc.ai/index.html)
 - [Machine Learning System Compiler etc OpenMLSys](https://openmlsys.github.io/v1/cn/)
 - [Structure and Interpretation of Tensor Programs](https://sitp.ai/front.html)
 
 ### Inference Engineering
+
 - [Learn Inference: Inference Engineering Explained Interactively](https://learn-inference.com/)
 - [Inference Engineering Master Map](https://inference-engineering-master-map.vercel.app/)
 - [LLM Inference Handbook (Modular)](https://handbook.modular.com/)
@@ -82,6 +90,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Fast Engine Recovery: Sub-Second Engine Restart for SGLang via Weight Cache Daemon (LMSYS)](https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery#tldr)
 
 ### Performance & Optimization
+
 - [Learn Kernels: Kernel and Inference Performance Traced to Primary Sources](https://learn-kernels.com/)
 - [Making Softmax Fast (Anshuman Mishra)](https://heyyanshuman.com/posts/making_softmax_fast)
 - [All About Rooflines · TPU × HBM](https://ezyang.github.io/interactive-parallelize-transformer/roofline.html)
@@ -89,6 +98,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [実践的パフォーマンスエンジニアリングによるAI高速化](https://gihyo.jp/book/2026/978-4-297-15349-6)
 
 ### Systems & Scaling
+
 - [How To Scale Your Model (Scaling Book - JAX)](https://jax-ml.github.io/scaling-book/)
 - [LeetGPU-GPU Study Resources](https://leetgpu.com/resources)
 - [Machine Learning Systems at Scale (Vol 2)](https://mlsysbook.ai/vol2/)
@@ -150,16 +160,19 @@ A curated collection of computer science books, interactive courses, technical a
 ## Algorithms & Data Structures
 
 ### Foundational Textbooks
+
 - [Algorithms (Sanjoy Dasgupta, Christos H. Papadimitriou, Umesh V. Vazirani)](https://github.com/eherbold/berkeleytextbooks/blob/master/Algorithms%20-%20Sanjoy%20Dasgupta%2C%20Christos%20H.%20Papadimitriou%2C%20and%20Umesh%20V.%20Vazirani.pdf)
 - [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp/)
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 - [Algorithmic Thinking Daniel Zingaro](https://amzn.asia/d/058vFSN7)
 
 ### Learning & Practice
+
 - [Problem Solving with Algorithms and Data Structures using Python (3rd Edition)](https://runestone.academy/ns/books/published/pythonds3/index.html)
 - [Algorithmica Russian](https://ru.algorithmica.org/)
 
 ### Interview Preparation
+
 - [LeetCode Cookbook (Halfrost)](https://books.halfrost.com/leetcode/en/)
 - [labuladong's Algorithm CheatSheet (Crack LeetCode)](https://github.com/labuladong/fucking-algorithm)
 
@@ -189,7 +202,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Rust for Network Programming and Automation](https://leanpub.com/rustfornetworkprogrammingandautomation2edition)
 - [RUST Firmware Engineering](https://www.amazon.co.jp/RUST-Firmware-Engineering-Microcontrollers-Applications/dp/B0H4WTZGTX)
 - [The Embedded Rust Book](https://docs.rust-embedded.org/book/)
-
+- [Comprehensive Rust](https://www.chapterpal.com/book/b070bb4e-bed7-4f53-8eca-7efba37bf286/comprehensive-rust)
 
 ### Go
 
@@ -238,15 +251,17 @@ A curated collection of computer science books, interactive courses, technical a
 - [Crafting Interpreters (Java, C)](https://craftinginterpreters.com/contents.html)
 - [Creating Language using Racker](https://beautifulracket.com/)
 - [Introduction to Compilers and Language Design-Prof. Douglas Thain
-](https://dthain.github.io/books/compiler/)
+  ](https://dthain.github.io/books/compiler/)
 - [Build Your Own Lisp in C](https://www.buildyourownlisp.com/)
 - [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 - [Compilers for ML- Coming Soon](https://gist.github.com/geohot/4768597d9dc536446ee2d5de1f29e89d#file-syllabus-md)
+
 ---
 
 ## Software Engineering, Architecture & Backend
 
 ### Foundational Concepts & Design
+
 - [The Computer Science Book (2nd Edition - Practical CS for Self-Taught Developers)](https://thecomputersciencebook.com/)
 - [Hacker Laws (Web Version)](https://hacker-laws.com/)
 - [Hacker Laws (GitHub Repository)](https://github.com/dwmkerr/hacker-laws#kernighans-law)
@@ -254,26 +269,31 @@ A curated collection of computer science books, interactive courses, technical a
 - [Making Software](https://www.makingsoftware.com/)
 
 ### Architecture & System Design
+
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Master Software Architecture - A Pragmatic Guide](https://leanpub.com/master-software-architecture)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
 - [Backend from First Principles — Complete Series](https://backend-from-first-principle.vercel.app/)
 
 ### Domain-Driven Design
+
 - [Free Domain-Driven Design Learning Resources](https://github.com/ddd-crew/free-ddd-learning-resources)
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly/)
 - [DD for the Web, with Python, Selenium, Django, JavaScript and pals...](https://www.obeythetestinggoat.com/pages/book.html)
 
 ### Testing & Quality Practices
+
 - [The software design, architecture & testing wiki](https://wiki.solidbook.io/)
 - [Test-Driven Development: Extensive Tutorial](https://leanpub.com/read/tdd-ebook)
 
 ### Design Patterns & Practical Guides
+
 - [Software Design by Example A tool-based introduction with Python](https://third-bit.com/sdxpy/)
 - [Software Design by Example A tool-based introduction with JavaScript](https://third-bit.com/sdxjs/)
 - [Architecture Patterns with Python (Cosmic Python)](https://www.cosmicpython.com/)
 
 ### SaaS & Development Practices
+
 - [Engineering Software as a Service (ESaaS)](https://saasbook.info/)
 - [UCB CS169: Software Engineering (CSDIY)](https://csdiy.wiki/en/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/CS169/)
 - [Awesome FastAPI (Dependency Injection & Resources)](https://github.com/mjhea0/awesome-fastapi#dependency-injection)
@@ -314,7 +334,6 @@ A curated collection of computer science books, interactive courses, technical a
 - [Wondering Explore Portal](https://wondering.app/explore)
 - [Wondering Explore — Self-Improvement Category](https://wondering.app/explore/category/self-improvement)
 
-
 ---
 
 ## Interview Preparation
@@ -324,4 +343,18 @@ A curated collection of computer science books, interactive courses, technical a
 - [Company wise interview questions](https://github.com/harry-the-nerd/interview-notes-questions)
 - [AI Engineering Interviews company wise](https://github.com/ombharatiya/AI-Engineer-Interview-Questions)
 
+---
 
+## Misc Tools
+
+### Tmux
+
+- [The Tao of tmux](https://leanpub.com/read/the-tao-of-tmux)
+- [The Complete Guide to tmux](https://gist.github.com/itachi-re/f402e89c6e29585e80ce47e018a9c04b)
+
+### Git
+
+- [A Visual Git Reference](https://marklodato.github.io/visual-git-guide/index-en.html)
+- [Git Immersion](https://gitimmersion.com/)
+- [Pro Git](https://git-scm.com/book/en/v2)
+- [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
