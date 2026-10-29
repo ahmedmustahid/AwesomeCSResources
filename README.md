@@ -43,6 +43,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 ### Core Concepts & Theory
 
+- [Start Doing Graph Theory](https://vertex.degree/)
 - [A First Course in Monte Carlo Methods](https://arxiv.org/html/2405.16359v1)
 - [Principles and Practice of Deep Representation Learning](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
 - [An Informal Introduction to Intelligence (Ch1 - Deep Representation Learning)](https://ma-lab-berkeley.github.io/deep-representation-learning-book/Ch1.html)
@@ -52,6 +53,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [Computer Vision: Algorithms and Applications (2nd Edition)](https://szeliski.org/Book/)
 - [RLHF book - Nathan Lambert](https://rlhfbook.com/)
+- [Reinforcement Learning - Matthew Landers](https://mattlanders.net/about-rl.html)
 - [AI Agents in Depth](https://bojieli.github.io/ai-agent-book/book-en/introduction/)
 
 ### Production & Systems
