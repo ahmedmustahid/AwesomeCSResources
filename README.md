@@ -349,6 +349,10 @@ A curated collection of computer science books, interactive courses, technical a
 
 ## Misc Tools
 
+### Systems
+
+- [Web Browser Engineering](https://browser.engineering/intro.html)
+
 ### Tmux
 
 - [The Tao of tmux](https://leanpub.com/read/the-tao-of-tmux)
