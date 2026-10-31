@@ -88,6 +88,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Inference Engineering Master Map](https://inference-engineering-master-map.vercel.app/)
 - [LLM Inference Handbook (Modular)](https://handbook.modular.com/)
 - [Introduction - How to Write an Inference Engine (Muser Book)](https://highperformanceailab.com/muser-book/)
+- [Tiny LLM Book](https://skyzh.github.io/tiny-llm/)
 - [SGLang Blog – Releases, Benchmarks & Announcements](https://www.sglang.io/blog/kimi-k3-day0-support)
 - [Fast Engine Recovery: Sub-Second Engine Restart for SGLang via Weight Cache Daemon (LMSYS)](https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery#tldr)
 
