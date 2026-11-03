@@ -313,6 +313,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [How Query Engines Work](https://howqueryengineswork.com/00-acknowledgments.html)
 - [Mini-LSM — Build a Database Storage Engine in Rust](https://skyzh.github.io/mini-lsm/00-preface)
 - [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/00a_overview)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 
 ---
 
