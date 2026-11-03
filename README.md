@@ -354,6 +354,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [Web Browser Engineering](https://browser.engineering/intro.html)
 - [100 Days Of Kubernetes](https://100daysofkubernetes.io/)
+- [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 
 ### Tmux
 
