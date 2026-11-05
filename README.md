@@ -175,6 +175,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [Problem Solving with Algorithms and Data Structures using Python (3rd Edition)](https://runestone.academy/ns/books/published/pythonds3/index.html)
 - [Algorithmica Russian](https://ru.algorithmica.org/)
+- [Fabulous Adventures in Data Structures and Algorithms](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms)
 
 ### Interview Preparation
 
