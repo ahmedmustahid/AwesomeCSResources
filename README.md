@@ -276,6 +276,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Master Software Architecture - A Pragmatic Guide](https://leanpub.com/master-software-architecture)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
+- [Software Engineering: A Modern Approach](https://softengbook.org/)
 - [Backend from First Principles — Complete Series](https://backend-from-first-principle.vercel.app/)
 
 ### Domain-Driven Design
