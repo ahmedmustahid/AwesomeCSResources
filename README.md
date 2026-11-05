@@ -148,6 +148,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Systems Inside-Assembly](https://0xax.dev/books/asm/)
 - [Dive into Systems](https://diveintosystems.org/book/index.html)
 - [Computer Architecture](https://srsarangi.github.io/)
+- [Code: Charles Pretzold](https://codehiddenlanguage.com/)
 - [How to Self-Study Integrated Circuit Design (Hacker News Discussion)](https://news.ycombinator.com/item?id=19890949)
 
 ---
@@ -168,6 +169,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Open Data Structures (in C++)](https://opendatastructures.org/ods-cpp/)
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 - [Algorithmic Thinking Daniel Zingaro](https://amzn.asia/d/058vFSN7)
+- [Skiena's Algorithms](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
 
 ### Learning & Practice
 
@@ -246,6 +248,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [OCaml Programming: Correct + Efficient + Beautiful from Cornell](https://cs3110.github.io/textbook/cover.html)
 - [The Art of Functional Programming](https://pragprog.com/titles/d-qtmart/the-art-of-functional-programming/)
+- [Functional Programming in Scala, Second Edition](https://www.manning.com/books/functional-programming-in-scala-second-edition)
 
 ---
 
@@ -273,6 +276,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 ### Architecture & System Design
 
+- [Get Your Hands Dirty on Clean Architecture 2nd](https://leanpub.com/get-your-hands-dirty-on-clean-architecture)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Master Software Architecture - A Pragmatic Guide](https://leanpub.com/master-software-architecture)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/)
