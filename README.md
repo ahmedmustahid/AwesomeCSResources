@@ -149,6 +149,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Dive into Systems](https://diveintosystems.org/book/index.html)
 - [Computer Architecture](https://srsarangi.github.io/)
 - [Code: Charles Pretzold](https://codehiddenlanguage.com/)
+- [First steps in bare-metal programming using UEFI](https://kevinboone.me/efitest_index.html)
 - [How to Self-Study Integrated Circuit Design (Hacker News Discussion)](https://news.ycombinator.com/item?id=19890949)
 
 ---
