@@ -130,6 +130,7 @@ A curated collection of computer science books, interactive courses, technical a
 - [Computer Networking: Principles, Protocols and Practice (Open Textbooks for Hong Kong)](https://www.opentextbooks.org.hk/certificates-and-diplomas/18032)
 - [Communication Networks @ ETH Zürich](https://comm-net.ethz.ch/)
 - [Mini-Internet Project (ETH Zürich)](https://github.com/nsg-ethz/mini_internet_project)
+- [Computer Networks: A Systems Approach](https://7e.systemsapproach.org/)
 
 ---
 
@@ -139,6 +140,9 @@ A curated collection of computer science books, interactive courses, technical a
 - [rCore-Tutorial-Book-v3 (OS in Rust for RISC-V)](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
 - [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/)
 - [Linux From Scratch Project Homepage](https://www.linuxfromscratch.org/lfs/)
+- [First steps in bare-metal programming using UEFI – series index](https://kevinboone.me/efitest_index.html)
+- [Container from scratch: building a Linux container from the ground up](https://kevinboone.me/containerfromscratch.html)
+- [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
 
 ---
 
@@ -215,6 +219,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 - [Gist of Go: Concurrency](https://antonz.org/go-concurrency/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests)
+- [Cloud Native Go](https://www.oreilly.com/library/view/cloud-native-go/9781492076322/)
 
 ### Zig
 
@@ -233,6 +238,11 @@ A curated collection of computer science books, interactive courses, technical a
 - [Modern Java](https://javabook.mccue.dev/)
 - [Java Practices](http://www.javapractices.com/home/HomeAction.do)
 - [Javaguide](https://github.com/Snailclimb/JavaGuide/blob/main/README_EN.md)
+- [Get Your Hands Dirty on Clean Architecture - Second Edition By : Tom Hombergs](https://leanpub.com/get-your-hands-dirty-on-clean-architecture)
+- Practical Design Patterns for Java Developers By : Miroslav Wengner
+- Hands-On Software Architecture with Java By : Giuseppe Bonocore
+- Spring System Design in Practice By : Rodrigo Santiago
+- Domain-Driven Design with Java - A Practitioner's Guide By : Premanand Chandrasekaran, Karthik Krishnan
 
 ### JavaScript & TypeScript
 
@@ -363,6 +373,8 @@ A curated collection of computer science books, interactive courses, technical a
 - [Web Browser Engineering](https://browser.engineering/intro.html)
 - [100 Days Of Kubernetes](https://100daysofkubernetes.io/)
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+- [The Wayland Protocol](https://wayland-book.com/)
 
 ### Tmux
 
