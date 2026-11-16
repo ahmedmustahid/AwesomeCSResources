@@ -84,6 +84,7 @@ A curated collection of computer science books, interactive courses, technical a
 
 ### Inference Engineering
 
+- [SGLang Zero to Hero](https://datawhalechina.github.io/zero-to-sglang/eng/part0/Part0-Coding-Ethics-and-Open-Source-Spirit.html)
 - [Learn Inference: Inference Engineering Explained Interactively](https://learn-inference.com/)
 - [Inference Engineering Master Map](https://inference-engineering-master-map.vercel.app/)
 - [LLM Inference Handbook (Modular)](https://handbook.modular.com/)
@@ -143,6 +144,8 @@ A curated collection of computer science books, interactive courses, technical a
 - [First steps in bare-metal programming using UEFI – series index](https://kevinboone.me/efitest_index.html)
 - [Container from scratch: building a Linux container from the ground up](https://kevinboone.me/containerfromscratch.html)
 - [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+- [The little book about OS development](https://littleosbook.github.io/)
+- [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores)
 
 ---
 
